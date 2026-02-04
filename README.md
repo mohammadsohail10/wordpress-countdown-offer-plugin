@@ -60,12 +60,6 @@ Shows the main headline, sub-headline, and live countdown timer.
 
 ---
 
-### 2. Countdown Used Inside WordPress Editor
-Demonstrates shortcode usage inside Gutenberg / Classic Editor / Elementor.
-
-![Shortcode Usage](screenshots/screenshot-2.png)
-
-
 ---
 
 ## 🧩 Shortcode Attributes
