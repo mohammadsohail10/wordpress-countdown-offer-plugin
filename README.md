@@ -26,10 +26,10 @@ Ideal for promotions, limited-time offers, campaigns, and announcements.
 2. Upload the folder to:
 
    ```
-   /wp-content/plugins/hu-countdown-offer/
+   /wp-content/plugins/sfortech-countdown-offer/
    ```
 3. Go to **WordPress Admin → Plugins**
-4. Activate **HU Countdown Offer**
+4. Activate **Sfortech Countdown Offer**
 
 ### Option 2: ZIP Upload
 
@@ -44,7 +44,7 @@ Ideal for promotions, limited-time offers, campaigns, and announcements.
 Use the shortcode anywhere in posts, pages, or builders:
 
 ```text
-[hu_countdown 
+[sfortech_countdown 
 headline="Limited Time Offer: 40% OFF Full Body Laser!" 
 sub_headline="This exclusive offer ends soon. Book your consultation now to lock in this price." 
 expire_date="2026-02-10" 
@@ -75,7 +75,7 @@ expire_time="23:59:59"]
 Example override:
 
 ```css
-.hu-headline {
+.sfortech-headline {
     color: #d62828;
 }
 ```
