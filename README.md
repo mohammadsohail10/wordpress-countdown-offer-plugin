@@ -51,6 +51,21 @@ expire_date="2026-02-10"
 expire_time="23:59:59"]
 ```
 
+## 📸 Screenshots
+
+### 1. Countdown Display on Frontend
+Shows the main headline, sub-headline, and live countdown timer.
+
+![Countdown Frontend](screenshots/screenshot-1.png)
+
+---
+
+### 2. Countdown Used Inside WordPress Editor
+Demonstrates shortcode usage inside Gutenberg / Classic Editor / Elementor.
+
+![Shortcode Usage](screenshots/screenshot-2.png)
+
+
 ---
 
 ## 🧩 Shortcode Attributes
