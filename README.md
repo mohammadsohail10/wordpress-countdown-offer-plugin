@@ -56,7 +56,7 @@ expire_time="23:59:59"]
 ### 1. Countdown Display on Frontend
 Shows the main headline, sub-headline, and live countdown timer.
 
-![Countdown Frontend](screenshots/screenshot-1.png)
+![Countdown Frontend](https://raw.githubusercontent.com/mohammadsohail10/wordpress-countdown-offer-plugin/refs/heads/main/sfortech-countdown-offer/screenshots/screenshot-1.png)
 
 ---
 
